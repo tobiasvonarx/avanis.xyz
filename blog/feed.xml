@@ -1,0 +1,14 @@
+<rss version="2.0">
+<channel>
+<title>Tobi's website</title>
+<link>https://avanis.xyz/blog</link>
+<description>Blog about Tobi's journey at ETH</description>
+<item>
+<title>Intuitive Approach to Solve Probability-DP Tasks</title>
+<link>https://avanis.xyz/blog/20210703.html</link>
+<guid>https://avanis.xyz/blog/20210703.html</guid>
+<pubDate>Sat, 03 Jul 2021 16:37:17</pubDate>
+<description>Walks through Island Tribes and tries to explain how to approach these pesky DP-Probability tasks</description>
+</item>
+</channel>
+</rss>
